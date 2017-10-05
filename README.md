@@ -8,4 +8,4 @@
 - edit ```config.json``` (enter your DB credentials)
 - ```npm start```
 
-## Live demo: http://130.211.151.254/
+
